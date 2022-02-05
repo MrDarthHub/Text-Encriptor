@@ -4,7 +4,7 @@
 This is a web where you can encript all your texts.
 
 
-This is a web that was created to achive the Alura Challenge supported by Oracle,
+It was created to achive the Alura Challenge supported by Oracle,
 improving my skills with HTML, Javascript and CSS.
 
 Execution:
@@ -42,9 +42,9 @@ Example:
 
 ** Español **
 
-Esta es una pagina donde puedes encriptar todos tus textos
+Esta es una pagina donde puedes encriptar todos tus textos.
 
-Esta web fue creada para completar el Alura Challenge apoyado por Oracle,
+Fue creada para completar el Alura Challenge apoyado por Oracle,
 para asi mejorar mis hablidades con HTML, Javascript and CSS.
 
 Ejecucion:
