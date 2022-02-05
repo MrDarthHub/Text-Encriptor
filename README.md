@@ -8,6 +8,7 @@ It was created to achive the Alura Challenge supported by Oracle,
 improving my skills with HTML, Javascript and CSS.
 
 Execution:
+
 	- Copy the repositry to your local PC.
 	- Execute the file index.html on your browser.
 
@@ -48,6 +49,7 @@ Fue creada para completar el Alura Challenge apoyado por Oracle,
 para asi mejorar mis hablidades con HTML, Javascript and CSS.
 
 Ejecucion:
+
 	- Copiar el repositorio en tu PC.
 	- Ejecutar el archivo index.html en tu navegador.
 
