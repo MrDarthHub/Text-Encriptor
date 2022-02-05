@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <h1 class="text-border" style="text-align: center;">Encriptacion de datos</h1>
+    <!-- Custom CSS-->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+
+<body>
+    <h3 class="titulo-secundario" style="text-align: center;">Por favor solo ingrese letras minusculas, sin acento ni caracteres especiales</h3>
+    
+    <div class="caja-padre">
+    
+    <!-- Encriptador -->
+    <div class="encriptador">
+        <textarea name="textarea" id="entrada_texto" cols="60" rows="14" onchange="this.value=this.value.toLowerCase();" placeholder="Por favor ingrese el texto"></textarea>
+    </div>
+
+
+    <!-- Desencriptador -->
+    <div class="desencriptador">
+        <textarea name="textarea" id="salida_texto" cols="60" rows="14" onchange="this.value=this.value.toLowerCase();" placeholder="Resultado"></textarea>
+    </div> 
+    
+
+    <!-- Botones -->
+    <button class="btn-encriptar" onclick="botonEncriptar()">Encriptar</button>
+        
+    <button class="btn-desencriptar" onclick="botonDesencriptar()">Desencriptar</button>
+
+    <button class="btn-copiar" onclick="copiarTexto()">Copiar</button>
+
+    </div>
+    
+
+    <!-- JS -->
+    <script src="main.js"></script>
+    <footer>
+        <h3 class="derechos" style="text-align: center;"> All Rights Reserved | Copyright © 2022 Brayan Diaz. </h3>
+    </footer>
+
+</body>
+
+</html>

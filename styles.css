@@ -1,0 +1,69 @@
+/* body */
+body{
+    background-color: #abf8e7;
+    color: #ffffff;
+}
+
+
+/* texto */
+.text-border {
+    font-family: arial;
+    font-size: 52px;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: #000;
+}
+
+.titulo-secundario{
+    font-family: arial;
+    font-size: 24px;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke: .9px;
+    -webkit-text-stroke-color: #000;
+}
+
+
+/* cajas de texto */
+.caja-padre{
+    width: 1300px;
+    height: 400px;
+    position: relative;
+}
+
+.encriptador{ 
+    position: relative;
+    float: left;
+    left: 130px;
+}
+
+.desencriptador{
+    position: relative;    
+    float: right;
+}
+
+
+/* Botones */
+.btn-encriptar{
+    position: relative;
+    top: 250px;
+    right: 370px;
+}
+
+.btn-desencriptar{
+    position: relative;
+    top: 250px;
+    right: 350px;
+}
+
+.btn-copiar{
+    position: relative;
+    top: 250px;
+    left: 140px;
+}
+
+
+/* Footer*/
+.derechos{
+    font-family: arial;
+    -webkit-text-fill-color: #000;
+}
