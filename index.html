@@ -10,38 +10,43 @@
 
 
 <body>
-    <h3 class="titulo-secundario" style="text-align: center;">Por favor solo ingrese letras minusculas, sin acento ni caracteres especiales</h3>
-    
-    <div class="caja-padre">
-    
-    <!-- Encriptador -->
-    <div class="encriptador">
-        <textarea name="textarea" id="entrada_texto" cols="60" rows="14" onchange="this.value=this.value.toLowerCase();" placeholder="Por favor ingrese el texto"></textarea>
-    </div>
-
-
-    <!-- Desencriptador -->
-    <div class="desencriptador">
-        <textarea name="textarea" id="salida_texto" cols="60" rows="14" onchange="this.value=this.value.toLowerCase();" placeholder="Resultado"></textarea>
-    </div> 
-    
-
-    <!-- Botones -->
-    <button class="btn-encriptar" onclick="botonEncriptar()">Encriptar</button>
+    <main>
+        <h3 class="titulo-secundario" style="text-align: center;">Por favor solo ingrese letras minusculas, sin acento ni caracteres especiales</h3>
         
-    <button class="btn-desencriptar" onclick="botonDesencriptar()">Desencriptar</button>
+        <div class="caja-padre">
+            <div class="container">
+                <!-- Encriptador -->
+                <div class="container-encriptador">
+                    <div>
+                        <textarea name="textarea" id="entrada_texto" cols="60" rows="14" onchange="this.value=this.value.toLowerCase();" placeholder="Por favor ingrese el texto"></textarea>
+                    </div>
+                    <div class="botones">
+                        <button onclick="botonEncriptar()">Encriptar</button>
+                        <button onclick="botonDesencriptar()">Desencriptar</button>
+                    </div>
+                </div>
 
-    <button class="btn-copiar" onclick="copiarTexto()">Copiar</button>
 
-    </div>
-    
+                <!-- Desencriptador -->
+                <div class="container-desencriptador">
+                    <div>
+                        <textarea name="textarea" id="salida_texto" cols="60" rows="14" onchange="this.value=this.value.toLowerCase();" placeholder="Resultado"></textarea>
+                    </div>
 
-    <!-- JS -->
-    <script src="main.js"></script>
-    <footer>
-        <h3 class="derechos" style="text-align: center;"> All Rights Reserved | Copyright © 2022 Brayan Diaz. </h3>
-    </footer>
+                    <div class="botones">
+                        <button onclick="copiarTexto()">Copiar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
 
+        <!-- JS -->
+        <script src="main.js"></script>
+        <footer>
+            <h3 class="derechos" style="text-align: center;">All Rights Reserved | Copyright © 2022 Brayan Diaz. </h3>
+        </footer>
+    </main>
 </body>
 
 </html>

@@ -22,43 +22,22 @@ body{
     -webkit-text-stroke-color: #000;
 }
 
-
-/* cajas de texto */
 .caja-padre{
-    width: 1300px;
-    height: 400px;
-    position: relative;
+    margin: 3%;
 }
 
-.encriptador{ 
-    position: relative;
-    float: left;
-    left: 130px;
+.container{
+    width: auto;
+    display: flex;
+    justify-content: space-around;
 }
 
-.desencriptador{
-    position: relative;    
-    float: right;
+.container-encriptador{
+    display: block;
 }
 
-
-/* Botones */
-.btn-encriptar{
-    position: relative;
-    top: 250px;
-    right: 370px;
-}
-
-.btn-desencriptar{
-    position: relative;
-    top: 250px;
-    right: 350px;
-}
-
-.btn-copiar{
-    position: relative;
-    top: 250px;
-    left: 140px;
+.botones{
+    margin-top: 10px;
 }
 
 
@@ -66,4 +45,5 @@ body{
 .derechos{
     font-family: arial;
     -webkit-text-fill-color: #000;
+    margin-top: 10%;
 }
