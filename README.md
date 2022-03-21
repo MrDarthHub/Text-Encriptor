@@ -1,5 +1,6 @@
 # Text-Encriptor
-![enciptadorDatos](https://user-images.githubusercontent.com/90490804/159212901-2910c4ec-3bed-4767-aa9b-c93ce31ad8ad.PNG)
+![enciptadorDatos](https://user-images.githubusercontent.com/90490804/159220029-2acdeb24-a868-45ca-8212-03f2e3f8b832.PNG)
+
 
 ** English **
 
