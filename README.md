@@ -1,4 +1,6 @@
 # Text-Encriptor
+![enciptadorDatos](https://user-images.githubusercontent.com/90490804/159212901-2910c4ec-3bed-4767-aa9b-c93ce31ad8ad.PNG)
+
 ** English **
 
 This is a web where you can encript all your texts.
