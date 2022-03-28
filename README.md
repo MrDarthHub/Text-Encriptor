@@ -13,9 +13,7 @@ improving my skills with HTML, Javascript and CSS.
 
 Execution:
 
-- Copy the repositry to your local PC.
-- Execute the file index.html on your browser.
-
+- Enter this link: https://mrdarthhub.github.io/Text-Encriptor.github.io/
 
 Parameters:
 
@@ -54,8 +52,7 @@ para asi mejorar mis hablidades con HTML, Javascript and CSS.
 
 Ejecucion:
 
-- Copiar el repositorio en tu PC.
-- Ejecutar el archivo index.html en tu navegador.
+- Entre en este link: https://mrdarthhub.github.io/Text-Encriptor.github.io/
 
 Parametros:
 
