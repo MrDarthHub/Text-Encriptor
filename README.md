@@ -11,7 +11,7 @@ This is a web where you can encript all your texts.
 It was created to achive the Alura Challenge supported by Oracle,
 improving my skills with HTML, Javascript and CSS.
 
-Execution:
+Live Demo:
 
 - Enter this link: https://mrdarthhub.github.io/Text-Encriptor.github.io/
 
@@ -50,7 +50,7 @@ Esta es una pagina donde puedes encriptar todos tus textos.
 Fue creada para completar el Alura Challenge apoyado por Oracle,
 para asi mejorar mis hablidades con HTML, Javascript and CSS.
 
-Ejecucion:
+Demo en vivo:
 
 - Entre en este link: https://mrdarthhub.github.io/Text-Encriptor.github.io/
 
